@@ -5,7 +5,8 @@ matplotlib
 mne
 torch
 torchvision
-streamlit
+streamlit>=1.40.0
 scipy
 seaborn
 plotly
+altair>=5.0.0
